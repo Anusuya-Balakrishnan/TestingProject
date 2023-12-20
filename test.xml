@@ -1,0 +1,12 @@
+<suite name="MySuite">
+    <listeners>
+        <listener class-name="listener.MyListener"/>
+    </listeners>
+    <test name="MyTest">
+		<classes>
+			<class name="TestngPackage.DemoListenerExample" />
+			
+		</classes>
+        <!-- Test configuration goes here -->
+    </test>
+</suite>

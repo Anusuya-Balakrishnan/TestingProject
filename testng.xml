@@ -1,0 +1,13 @@
+<suite name="mySuite">
+		<parameter name="username" value="thamizh" />
+		<parameter name="age" value="25" />
+		<parameter  name="" value="" />
+
+	<test name="myTest1">
+			
+		<classes>
+			<class name="TestngPackage.Annotations"></class>
+			<class name="TestngPackage.DemoClass"></class>
+		</classes>
+	</test>
+</suite>
