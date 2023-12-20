@@ -67,6 +67,7 @@ public class BookCartSteps {
 	    }
 	    else {
 	    	System.out.println("not added");
+	    	System.out.println("completed");
 	    }
 	}
 }
